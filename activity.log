@@ -15,3 +15,4 @@
 2026-07-15T19:28:52 - chore: remove unused imports
 2026-07-17T09:48:00 - chore: update dependencies
 2026-07-17T12:33:09 - fix: handle null values in response
+2026-07-17T18:07:02 - refactor: extract reusable hook
